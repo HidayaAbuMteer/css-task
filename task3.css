@@ -1,0 +1,21 @@
+h1{
+     text-align: center;
+     text-decoration: underline;
+}
+
+.p1{
+    text-align: right;
+}
+
+.p2{
+text-decoration: overline;
+text-align: center;
+
+}
+
+.p3{
+    text-decoration: line-through;
+}
+.h4{
+        text-transform: uppercase;
+}
