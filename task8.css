@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    text-decoration: underline;
+
+}
+div{
+    background-image: url(images.jpg);
+    color: white;
+}
+span{
+    
+    color: green;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+
+}

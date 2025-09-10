@@ -1,0 +1,17 @@
+div{
+    padding: 5px;
+}
+.blue,.pink,.orange{
+    color :white;
+}
+.blue{
+    background-color: blue;
+}
+.pink{
+    background-color: palevioletred;
+
+}
+.orange{
+        background-color: orange;
+
+}

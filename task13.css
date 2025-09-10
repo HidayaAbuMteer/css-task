@@ -1,0 +1,5 @@
+body{
+    background: url(images.jpg)repeat-x,
+                url(images.jpg)repeat-y;
+
+}
